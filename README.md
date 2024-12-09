@@ -1,5 +1,5 @@
 # -SPI-CanBus
-<i>Appunti su approfondimento su argomenti  SPI e CAN BUS </i> <br>
+<i>Appunti su approfondimento su argomenti  SPI e CAN BUS per lezione di Telecomunicazioni</i> <br>
 
 <h2>SPI</h2> 
  <b>Serial periphiral interface</b> <br>
