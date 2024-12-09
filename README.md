@@ -36,14 +36,14 @@
   </tr>
  </table>
 
-<h2> CAN Bus </h2> : Controller Area Network <br>
+<h2> CAN Bus </h2>  Controller Area Network <br>
  <h3>Definizione: </h3>
   Protocollo di comunicazione seriale per microcontrollori e dispositivi elettronici <br>
  <h3>Uso </h3> Usato in automobili, macchinari industriali, e automazione , per consentire la comunicazione tra centraline <br>
  <h3>Caratteristiche principali</h3>
  <ul>
   <li><b>Architettura</b> : MULTI-MASTER , basata su priorità dei messaggi </li>
-  </li><b>Velocità</b> : Fino a 1  Mbps </li>
+  <li><b>Velocità</b> : Fino a 1  Mbps </li>
   <li><b>Affidabilità</b>:  Controllo degli errori integrato </li>
   <li><b>Cablaggio</b> : Due cavi : CAN_H e CAN_L per comunicazione differenziale  </li>
   <li><b>Standard ISO 11898</b> </li>
